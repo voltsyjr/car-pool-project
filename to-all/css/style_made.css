@@ -2548,8 +2548,8 @@ p {
 
 .banner {
     height: 100%;
-    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.5))), url("../predata/hero-image.jpg");
-    background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../predata/hero-image.jpg");
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.5))), url("../img/img1.jpeg");
+    background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/img1.jpeg");
     background-position: 0% 0%, 50% 50%;
     background-size: auto, cover;
     background-repeat: repeat, no-repeat;

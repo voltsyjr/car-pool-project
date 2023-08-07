@@ -1,0 +1,31 @@
+/* * {
+    margin: 0%;
+    padding: 0%;
+} */
+
+body {
+    background-color: white;
+}
+
+.form {
+    margin-top: 100px;
+}
+
+.new,
+.old,
+.submit {
+    background-color: #6c55f9;
+    color: aliceblue;
+}
+
+.user {
+    width: 90px;
+}
+
+form {
+    background-color: #f6f5fb;
+    padding: 14px;
+    border-radius: 12px;
+    margin-bottom: 40px;
+    box-shadow: -3px -3px 5px #ffffff70, 3px 3px 15px #00000070;
+}
